@@ -1,0 +1,9 @@
+
+8	java:S131„""Add a default case to this switch.(˜ë÷â
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(û¢õ“
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(ˆ´Ú­ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðœûý
+D
+java:S1068;".Remove this unused "txtFormula" private field.(ççëí
+2
+java:S3626£"Remove this redundant jump.(ûÁÝ…
